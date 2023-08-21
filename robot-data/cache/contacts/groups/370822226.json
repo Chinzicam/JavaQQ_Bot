@@ -1,0 +1,132 @@
+{
+    "troopMemberNumSeq": 52,
+    "list": [
+        {
+            "uin": 1695138832,
+            "nick": "橙橙ᴮᵒᵗ（用法见空间",
+            "permission": "OWNER",
+            "remark": "",
+            "nameCard": "罗伯特",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1657110237,
+            "lastSpeakTimestamp": 1692590583,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+                3
+            ],
+            "temperature": 100
+        },
+        {
+            "uin": 1994901920,
+            "nick": "沙力万",
+            "permission": "MEMBER",
+            "remark": "沙力万",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1667827780,
+            "lastSpeakTimestamp": 1670498090,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 8
+        },
+        {
+            "uin": 2572322976,
+            "nick": "斯特",
+            "permission": "ADMINISTRATOR",
+            "remark": "",
+            "nameCard": "斯特",
+            "specialTitle": "皇帝",
+            "muteTimestamp": 1660971308,
+            "anonymousId": null,
+            "joinTimestamp": 1657110408,
+            "lastSpeakTimestamp": 1692490134,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 100
+        },
+        {
+            "uin": 2720731877,
+            "nick": "key",
+            "permission": "MEMBER",
+            "remark": "",
+            "nameCard": "妮露高手",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1657110408,
+            "lastSpeakTimestamp": 1680001164,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 56
+        },
+        {
+            "uin": 2753731654,
+            "nick": "五点五分",
+            "permission": "ADMINISTRATOR",
+            "remark": "",
+            "nameCard": "等抽水神",
+            "specialTitle": "原神高手",
+            "muteTimestamp": 1660971173,
+            "anonymousId": null,
+            "joinTimestamp": 1657110408,
+            "lastSpeakTimestamp": 1692496884,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 100
+        },
+        {
+            "uin": 2854196310,
+            "nick": "Q群管家",
+            "permission": "MEMBER",
+            "remark": "Q群管家",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1672414201,
+            "lastSpeakTimestamp": 1672414201,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 0
+        },
+        {
+            "uin": 3189797316,
+            "nick": "橙子草",
+            "permission": "MEMBER",
+            "remark": "",
+            "nameCard": "海超人与大洋游侠",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1659148231,
+            "lastSpeakTimestamp": 1692496707,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 100
+        }
+    ]
+}

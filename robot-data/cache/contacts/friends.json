@@ -1,0 +1,30 @@
+{
+    "friendListSeq": 24,
+    "timeStamp": 13,
+    "list": [
+        {
+            "uin": 66600000,
+            "nick": "babyQ",
+            "remark": "babyQ",
+            "friendGroupId": 0
+        },
+        {
+            "uin": 1695138832,
+            "nick": "橙橙ᴮᵒᵗ（用法见空间",
+            "remark": "橙橙ᴮᵒᵗ（用法见空间",
+            "friendGroupId": 0
+        },
+        {
+            "uin": 1994901920,
+            "nick": "沙力万",
+            "remark": "沙力万",
+            "friendGroupId": 0
+        },
+        {
+            "uin": 3189797316,
+            "nick": "橙子草",
+            "remark": "哈维尔的移动城堡",
+            "friendGroupId": 0
+        }
+    ]
+}

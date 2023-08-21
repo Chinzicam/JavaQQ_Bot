@@ -1,0 +1,77 @@
+{
+    "troopMemberNumSeq": 78,
+    "list": [
+        {
+            "uin": 1345364857,
+            "nick": "teeter",
+            "permission": "MEMBER",
+            "remark": "teeter",
+            "nameCard": "",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1655963958,
+            "lastSpeakTimestamp": 1691974344,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 79
+        },
+        {
+            "uin": 1695138832,
+            "nick": "橙橙ᴮᵒᵗ（用法见空间",
+            "permission": "OWNER",
+            "remark": "",
+            "nameCard": "罗伯特",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1655921153,
+            "lastSpeakTimestamp": 1691939833,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 100
+        },
+        {
+            "uin": 1994901920,
+            "nick": "沙力万",
+            "permission": "ADMINISTRATOR",
+            "remark": "沙力万",
+            "nameCard": "",
+            "specialTitle": "罗伯特",
+            "muteTimestamp": 1661080773,
+            "anonymousId": null,
+            "joinTimestamp": 1660139666,
+            "lastSpeakTimestamp": 1670576286,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 30
+        },
+        {
+            "uin": 3189797316,
+            "nick": "橙子草",
+            "permission": "MEMBER",
+            "remark": "",
+            "nameCard": "超级飞侠乐迪",
+            "specialTitle": "",
+            "muteTimestamp": 0,
+            "anonymousId": null,
+            "joinTimestamp": 1655921153,
+            "lastSpeakTimestamp": 1691966560,
+            "isOfficialBot": false,
+            "rank": 1,
+            "point": 0,
+            "honors": [
+            ],
+            "temperature": 95
+        }
+    ]
+}

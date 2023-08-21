@@ -1,0 +1,11 @@
+itbaima:
+  robot:
+    username: 1994901920   #登录的QQ账号
+    login-type: qr_code   #登录的类型，这里选择 qr_code 表示扫码登录
+    protocol: android_watch   #登录的协议，二维码模式下只能选择 android_watch 协议
+
+    data:
+      work-dir: robot-data   #所有数据保存的根目录
+      cache-dir: cache       #缓存数据目录（相对于根目录）
+      contact-cache: true    #是否开启联系人缓存，下次加载时更快，但是可能会导致群里的一些角色更新失败，比如你明明给了某个人管理员，但是缓存里保存的是他不是管理员的状态，此时只能删掉缓存重新加载
+      save-device-id: true   #自动生成并保存虚拟设备信息，如果不保存，那么每次启动都会随机生成一个设备信息并且需要重新登录
